@@ -8,11 +8,11 @@ import re
 
 # Store credentials
 
-access_token = "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"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
-shop_url = 'nf-t-his.myshopify.com'
-API_key = '13489aba6b8cb90de345d24f678f0d06'
-API_secret = 'a34b2c3e1a98f85b91dd925dd92738cc'
+shop_url = 'YOUR-STORE-NAME.myshopify.com'
+API_key = 'xxxxxxxxxxxxxxxxxxx'
+API_secret = 'xxxxxxxxxxxxxxxxxx'
 API_version = '2022-01'
 
 url = 'https://{shop_url}.myshopify.com/admin/api/{API_version}/{resource}.json'
